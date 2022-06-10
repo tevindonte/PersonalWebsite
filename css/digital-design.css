@@ -1,0 +1,619 @@
+/* screen - digital-design */
+
+.digital-design {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.digital-design .overlap-group1 {
+  background-image: url(../img/layer-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 926px;
+  margin-left: -438px;
+  position: relative;
+  width: 1389px;
+}
+
+.digital-design .overlap-group {
+  height: 915px;
+  left: 438px;
+  position: absolute;
+  top: 0;
+  width: 416px;
+}
+
+.digital-design .layer-4 {
+  height: 14px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 51px;
+}
+
+.digital-design .layer-4-copy {
+  height: 14px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 141px;
+}
+
+.digital-design .usage {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 10.4px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.digital-design .group-4 {
+  display: flex;
+  height: 915px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 413px;
+}
+
+.digital-design .layer-8 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.digital-design .copyright {
+  align-self: flex-end;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 7.9px;
+  margin-bottom: -2.1px;
+  margin-right: -2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.digital-design .name {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 9.3px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.digital-design .text-14 {
+  left: 221px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.digital-design .layer-10 {
+  height: 11px;
+  left: 311px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.digital-design .layer-5-copy-2 {
+  height: 11px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 3px;
+}
+
+.digital-design .layer-5-copy {
+  height: 11px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 2px;
+}
+
+.digital-design .place {
+  cursor: pointer;
+  left: 256px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design .place:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .model {
+  cursor: pointer;
+  left: 326px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design .model:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .code {
+  cursor: pointer;
+  left: 386px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design .code:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .digital-artist {
+  left: 59px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.digital-design .store {
+  cursor: pointer;
+  left: 177px;
+  letter-spacing: -0.56px;
+  line-height: 9.0px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design .store:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .layer-11 {
+  height: 5px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 104px;
+}
+
+.digital-design .w1000-733604l-ol-pi-bsl {
+  height: 109px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604tm8o0-q-fq {
+  height: 109px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 80px;
+}
+
+.digital-design .w1000-733604f5hryjzp {
+  height: 109px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604-oa-tj5s2-z {
+  height: 109px;
+  left: 693px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 78px;
+}
+
+.digital-design .w1000-7336046uc313sl {
+  height: 109px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604ua-bkp7-kd {
+  height: 108px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604o-r-mh-b-hc-j {
+  height: 108px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 80px;
+}
+
+.digital-design .w1000-733604c5-xgnl-dm {
+  height: 108px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604dz-p-fa6-vk {
+  height: 108px;
+  left: 693px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 78px;
+}
+
+.digital-design .w1000-733604-z-qfu1e-cq {
+  height: 108px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 77px;
+}
+
+.digital-design .w1000-7336041tn4glo-f {
+  height: 106px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604-fy4-e-xgf-b {
+  height: 106px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 80px;
+}
+
+.digital-design .w1000-733604-d-eyt-dxb-a {
+  height: 106px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604-d0-xeds2b {
+  height: 106px;
+  left: 693px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 78px;
+}
+
+.digital-design .w1000-733604-au-zn-jn-qg {
+  height: 106px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 559px;
+  width: 77px;
+}
+
+.digital-design .w1000-733604a6qwl-zb1 {
+  height: 108px;
+  left: 447px;
+  object-fit: cover;
+  position: absolute;
+  top: 739px;
+  width: 77px;
+}
+
+.digital-design .w1000-7336042c9-qzw-xq {
+  height: 108px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 739px;
+  width: 80px;
+}
+
+.digital-design .w1000-7336048e-t-pz1-qn {
+  height: 108px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 739px;
+  width: 77px;
+}
+
+.digital-design .w1000-73360497-o-zk3-kx {
+  height: 108px;
+  left: 693px;
+  object-fit: cover;
+  position: absolute;
+  top: 739px;
+  width: 78px;
+}
+
+.digital-design .w1000-733604qv-xgbmg-f {
+  height: 108px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 739px;
+  width: 77px;
+}
+
+.digital-design .layer-13 {
+  height: 15px;
+  left: 450px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 403px;
+}
+
+.digital-design .logo-design {
+  display: flex;
+  height: 6px;
+  left: 453px;
+  position: absolute;
+  top: 96px;
+  width: 57px;
+}
+
+.digital-design .logo-design-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.digital-design .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 523px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.digital-design .team-packages:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .team-packages-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.digital-design .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 606px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.digital-design .motion-design:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .motion-design-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.digital-design .header {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 691px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 32px;
+}
+
+.digital-design .header:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .header-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.digital-design .intro {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 733px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 27px;
+}
+
+.digital-design .intro:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .intro-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.digital-design .misc {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 775px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 22px;
+}
+
+.digital-design .misc:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .misc-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.digital-design .art {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 808px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 17px;
+}
+
+.digital-design .art:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .art-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.digital-design .web {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 834px;
+  position: absolute;
+  top: 96px;
+  transition: all 0.2s ease;
+  width: 17px;
+}
+
+.digital-design .web:hover {
+  transform: scale(1.1);
+}
+
+.digital-design .web-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.digital-design .layer-14 {
+  height: 1px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 57px;
+}
+
+.digital-design .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 51px;
+  left: 442px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}

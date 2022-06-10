@@ -1,0 +1,523 @@
+/* screen - misc-2 */
+
+.misc-2 {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2560px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.misc-2 .overlap-group2 {
+  height: 3166px;
+  margin-left: -2158px;
+  margin-top: -309px;
+  position: relative;
+  width: 6617px;
+}
+
+.misc-2 .layer-2 {
+  height: 1px;
+  left: 2158px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.misc-2 .textures {
+  height: 3166px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6617px;
+}
+
+.misc-2 .rounded-rectangle-1 {
+  height: 2286px;
+  left: 2202px;
+  object-fit: cover;
+  position: absolute;
+  top: 627px;
+  width: 1798px;
+}
+
+.misc-2 .layer-12 {
+  height: 903px;
+  left: 1803px;
+  object-fit: cover;
+  position: absolute;
+  top: 2010px;
+  width: 842px;
+}
+
+.misc-2 .digital-artist {
+  left: 2202px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 401px;
+  white-space: nowrap;
+}
+
+.misc-2 .layer-13 {
+  height: 65px;
+  left: 2242px;
+  object-fit: cover;
+  position: absolute;
+  top: 532px;
+  width: 1718px;
+}
+
+.misc-2 .rectangle-35 {
+  background-color: var(--white);
+  height: 2653px;
+  left: 4045px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 309px;
+  width: 33px;
+}
+
+.misc-2 .rectangle-36 {
+  height: 2898px;
+  left: 2567px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 64px;
+  width: 1920px;
+}
+
+.misc-2 .overlap-group1 {
+  height: 2507px;
+  left: 2158px;
+  position: absolute;
+  top: 309px;
+  width: 1867px;
+}
+
+.misc-2 .layer-4 {
+  height: 20px;
+  left: 1443px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 75px;
+}
+
+.misc-2 .layer-4-copy {
+  height: 20px;
+  left: 1646px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 201px;
+}
+
+.misc-2 .usage {
+  left: 1448px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.misc-2 .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 2507px;
+  left: 0;
+  min-width: 1852px;
+  position: absolute;
+  top: 0;
+}
+
+.misc-2 .overlap-group {
+  background-image: url(../img/layer-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.misc-2 .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  margin-bottom: -1.2px;
+  margin-left: 782px;
+  min-height: 17px;
+  min-width: 320px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.misc-2 .digital-artist-1 {
+  height: 10px;
+  left: 1349px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 140px;
+}
+
+.misc-2 .store {
+  cursor: pointer;
+  height: 11px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.misc-2 .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-2 .name {
+  left: 1652px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.misc-2 .text-12 {
+  left: 1584px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.misc-2 .layer-10 {
+  height: 17px;
+  left: 1713px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.misc-2 .layer-5-copy-2 {
+  height: 17px;
+  left: 1506px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.misc-2 .layer-5-copy {
+  height: 17px;
+  left: 1800px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.misc-2 .model {
+  cursor: pointer;
+  height: 11px;
+  left: 1725px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.misc-2 .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-2 .code {
+  cursor: pointer;
+  height: 11px;
+  left: 1816px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.misc-2 .code:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-2 .layer-11 {
+  height: 5px;
+  left: 1333px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 166px;
+}
+
+.misc-2 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 95px;
+  left: 39px;
+  position: absolute;
+  top: 2px;
+  width: 86px;
+}
+
+.misc-2 .place {
+  cursor: pointer;
+  left: 1624px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.misc-2 .logo-design {
+  display: flex;
+  height: 21px;
+  left: 2254px;
+  position: absolute;
+  top: 556px;
+  width: 220px;
+}
+
+.misc-2 .logo-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.misc-2 .logo-design-1:hover {
+  background-color: #000000
+}
+
+.misc-2 .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2554px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.misc-2 .team-packages:hover {
+  background-color: #000000
+}
+
+.misc-2 .team-packages-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2.0px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.misc-2 .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2909px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.misc-2 .motion-design:hover {
+  background-color: #000000
+}
+
+.misc-2 .motion-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.misc-2 .header {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3269px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 121px;
+}
+
+.misc-2 .header:hover {
+  background-color: #000000
+}
+
+.misc-2 .header-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.misc-2 .intro {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3448px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.misc-2 .intro:hover {
+  background-color: #000000
+}
+
+.misc-2 .intro-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.misc-2 .misc {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3628px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 82px;
+}
+
+.misc-2 .misc:hover {
+  background-color: #000000
+}
+
+.misc-2 .misc-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.misc-2 .art {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3768px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.misc-2 .art:hover {
+  background-color: #000000
+}
+
+.misc-2 .art-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.misc-2 .web {
+  display: flex;
+  height: 21px;
+  left: 3878px;
+  position: absolute;
+  top: 556px;
+  width: 62px;
+}
+
+.misc-2 .web-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.misc-2 .layer-14 {
+  height: 4px;
+  left: 3869px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 73px;
+}
+
+.misc-2 .f4d332db1d8a59f2f5ed95ba25edef5c {
+  height: 995px;
+  left: 2254px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 1706px;
+}
+
+.misc-2 .ewfw {
+  height: 1052px;
+  left: 2885px;
+  object-fit: cover;
+  position: absolute;
+  top: 1702px;
+  width: 1053px;
+}

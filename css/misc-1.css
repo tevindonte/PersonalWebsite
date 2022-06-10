@@ -1,0 +1,596 @@
+/* screen - misc-1 */
+
+.misc-1 {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2560px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.misc-1 .overlap-group2 {
+  height: 3166px;
+  margin-left: -2158px;
+  margin-top: -309px;
+  position: relative;
+  width: 6617px;
+}
+
+.misc-1 .layer-2 {
+  height: 1px;
+  left: 2158px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.misc-1 .textures {
+  height: 3166px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6617px;
+}
+
+.misc-1 .rounded-rectangle-1 {
+  height: 2286px;
+  left: 2202px;
+  object-fit: cover;
+  position: absolute;
+  top: 627px;
+  width: 1798px;
+}
+
+.misc-1 .layer-12 {
+  height: 903px;
+  left: 1803px;
+  object-fit: cover;
+  position: absolute;
+  top: 2010px;
+  width: 842px;
+}
+
+.misc-1 .digital-artist {
+  left: 2202px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 401px;
+  white-space: nowrap;
+}
+
+.misc-1 .layer-13 {
+  height: 65px;
+  left: 2242px;
+  object-fit: cover;
+  position: absolute;
+  top: 532px;
+  width: 1718px;
+}
+
+.misc-1 .rectangle-35 {
+  background-color: var(--white);
+  height: 2653px;
+  left: 4045px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 309px;
+  width: 33px;
+}
+
+.misc-1 .rectangle-36 {
+  height: 3057px;
+  left: 2567px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 64px;
+  width: 1920px;
+}
+
+.misc-1 .overlap-group1 {
+  height: 2508px;
+  left: 2158px;
+  position: absolute;
+  top: 308px;
+  width: 1867px;
+}
+
+.misc-1 .layer-4 {
+  height: 20px;
+  left: 1443px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 75px;
+}
+
+.misc-1 .layer-4-copy {
+  height: 20px;
+  left: 1646px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 201px;
+}
+
+.misc-1 .usage {
+  left: 1448px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.misc-1 .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 2507px;
+  left: 0;
+  min-width: 1852px;
+  position: absolute;
+  top: 1px;
+}
+
+.misc-1 .overlap-group {
+  background-image: url(../img/layer-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.misc-1 .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  margin-bottom: -1.2px;
+  margin-left: 782px;
+  min-height: 17px;
+  min-width: 320px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.misc-1 .digital-artist-1 {
+  height: 10px;
+  left: 1349px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 140px;
+}
+
+.misc-1 .store {
+  cursor: pointer;
+  height: 11px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.misc-1 .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-1 .name {
+  left: 1652px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.misc-1 .text-10 {
+  left: 1584px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.misc-1 .layer-10 {
+  height: 17px;
+  left: 1713px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.misc-1 .layer-5-copy-2 {
+  height: 17px;
+  left: 1506px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.misc-1 .layer-5-copy {
+  height: 17px;
+  left: 1800px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+
+.misc-1 .model {
+  cursor: pointer;
+  height: 11px;
+  left: 1725px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.misc-1 .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-1 .code {
+  cursor: pointer;
+  height: 11px;
+  left: 1816px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.misc-1 .code:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.misc-1 .layer-11 {
+  height: 5px;
+  left: 1333px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 166px;
+}
+
+.misc-1 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 95px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.misc-1 .place {
+  cursor: pointer;
+  left: 1624px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.misc-1 .x733604-gm-eg-rl-tz-1 {
+  height: 708px;
+  left: 2341px;
+  object-fit: cover;
+  position: absolute;
+  top: 729px;
+  width: 472px;
+}
+
+.misc-1 .x733604y2-pq0-afl {
+  height: 708px;
+  left: 2842px;
+  object-fit: cover;
+  position: absolute;
+  top: 729px;
+  width: 473px;
+}
+
+.misc-1 .x733604-b-oq0wc9x {
+  height: 708px;
+  left: 3353px;
+  object-fit: cover;
+  position: absolute;
+  top: 729px;
+  width: 474px;
+}
+
+.misc-1 .x733604-r-ahs-bp69 {
+  height: 708px;
+  left: 2341px;
+  object-fit: cover;
+  position: absolute;
+  top: 1496px;
+  width: 472px;
+}
+
+.misc-1 .x733604-j1-aps0i-d {
+  height: 708px;
+  left: 2842px;
+  object-fit: cover;
+  position: absolute;
+  top: 1496px;
+  width: 473px;
+}
+
+.misc-1 .x7336047o2-x-cudi {
+  height: 708px;
+  left: 3353px;
+  object-fit: cover;
+  position: absolute;
+  top: 1496px;
+  width: 474px;
+}
+
+.misc-1 .x733604-my-lb-hak6 {
+  height: 346px;
+  left: 2346px;
+  object-fit: cover;
+  position: absolute;
+  top: 2249px;
+  width: 345px;
+}
+
+.misc-1 .x733604i-t0rz-u-qa {
+  height: 346px;
+  left: 2727px;
+  object-fit: cover;
+  position: absolute;
+  top: 2249px;
+  width: 346px;
+}
+
+.misc-1 .x733604ypfc-p6t-r {
+  height: 346px;
+  left: 3105px;
+  object-fit: cover;
+  position: absolute;
+  top: 2249px;
+  width: 346px;
+}
+
+.misc-1 .x7336048-z-te-h11f {
+  height: 346px;
+  left: 3482px;
+  object-fit: cover;
+  position: absolute;
+  top: 2249px;
+  width: 346px;
+}
+
+.misc-1 .logo-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2254px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+
+.misc-1 .logo-design:hover {
+  background-color: #000000
+}
+
+.misc-1 .logo-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.misc-1 .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2554px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.misc-1 .team-packages:hover {
+  background-color: #000000
+}
+
+.misc-1 .team-packages-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2.0px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.misc-1 .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2909px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.misc-1 .motion-design:hover {
+  background-color: #000000
+}
+
+.misc-1 .motion-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.misc-1 .header {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3269px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 121px;
+}
+
+.misc-1 .header:hover {
+  background-color: #000000
+}
+
+.misc-1 .header-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.misc-1 .intro {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3448px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.misc-1 .intro:hover {
+  background-color: #000000
+}
+
+.misc-1 .intro-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.misc-1 .misc {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3628px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 82px;
+}
+
+.misc-1 .misc:hover {
+  background-color: #000000
+}
+
+.misc-1 .misc-2 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.misc-1 .art {
+  display: flex;
+  height: 21px;
+  left: 3768px;
+  position: absolute;
+  top: 556px;
+  width: 62px;
+}
+
+.misc-1 .art-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.misc-1 .web {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3878px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.misc-1 .web:hover {
+  background-color: #000000
+}
+
+.misc-1 .web-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.misc-1 .layer-14 {
+  height: 3px;
+  left: 3747px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 97px;
+}

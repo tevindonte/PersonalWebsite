@@ -1,0 +1,646 @@
+/* screen - intro */
+
+.intro {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2560px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.intro .overlap-group2 {
+  height: 3166px;
+  margin-left: -2158px;
+  margin-top: -309px;
+  position: relative;
+  width: 6617px;
+}
+
+.intro .layer-2 {
+  height: 1px;
+  left: 2158px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.intro .textures {
+  height: 3166px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6617px;
+}
+
+.intro .rounded-rectangle-1 {
+  height: 2286px;
+  left: 2202px;
+  object-fit: cover;
+  position: absolute;
+  top: 627px;
+  width: 1798px;
+}
+
+.intro .layer-12 {
+  height: 903px;
+  left: 1803px;
+  object-fit: cover;
+  position: absolute;
+  top: 2010px;
+  width: 842px;
+}
+
+.intro .digital-artist {
+  left: 2202px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 401px;
+  white-space: nowrap;
+}
+
+.intro .layer-13 {
+  height: 65px;
+  left: 2242px;
+  object-fit: cover;
+  position: absolute;
+  top: 532px;
+  width: 1718px;
+}
+
+.intro .rectangle-35 {
+  background-color: var(--white);
+  height: 2653px;
+  left: 4045px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 309px;
+  width: 33px;
+}
+
+.intro .rectangle-36 {
+  height: 2849px;
+  left: 2567px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 64px;
+  width: 1920px;
+}
+
+.intro .overlap-group1 {
+  height: 2507px;
+  left: 2158px;
+  position: absolute;
+  top: 309px;
+  width: 1867px;
+}
+
+.intro .layer-4 {
+  height: 20px;
+  left: 1443px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 75px;
+}
+
+.intro .layer-4-copy {
+  height: 20px;
+  left: 1646px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 201px;
+}
+
+.intro .usage {
+  left: 1448px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.intro .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 2507px;
+  left: 0;
+  min-width: 1852px;
+  position: absolute;
+  top: 0;
+}
+
+.intro .overlap-group {
+  background-image: url(../img/layer-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.intro .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  margin-bottom: -1.2px;
+  margin-left: 782px;
+  min-height: 17px;
+  min-width: 320px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.intro .digital-artist-1 {
+  height: 10px;
+  left: 1349px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 140px;
+}
+
+.intro .store {
+  cursor: pointer;
+  height: 11px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.intro .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.intro .name {
+  left: 1652px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.intro .text-9 {
+  left: 1584px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.intro .layer-10 {
+  height: 17px;
+  left: 1713px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.intro .layer-5-copy-2 {
+  height: 17px;
+  left: 1506px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.intro .layer-5-copy {
+  height: 17px;
+  left: 1800px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.intro .model {
+  cursor: pointer;
+  height: 11px;
+  left: 1725px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.intro .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.intro .code {
+  cursor: pointer;
+  height: 11px;
+  left: 1816px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.intro .code:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.intro .layer-11 {
+  height: 5px;
+  left: 1337px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 159px;
+}
+
+.intro .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 95px;
+  left: 39px;
+  position: absolute;
+  top: 1px;
+  width: 86px;
+}
+
+.intro .place {
+  cursor: pointer;
+  left: 1624px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.intro .rectangle-15 {
+  height: 268px;
+  left: 2363px;
+  position: absolute;
+  top: 695px;
+  width: 430px;
+}
+
+.intro .rectangle-16 {
+  height: 268px;
+  left: 2851px;
+  position: absolute;
+  top: 695px;
+  width: 429px;
+}
+
+.intro .rectangle-17 {
+  height: 268px;
+  left: 3339px;
+  position: absolute;
+  top: 695px;
+  width: 429px;
+}
+
+.intro .rectangle-18 {
+  height: 266px;
+  left: 2363px;
+  position: absolute;
+  top: 990px;
+  width: 430px;
+}
+
+.intro .rectangle-19 {
+  height: 266px;
+  left: 2851px;
+  position: absolute;
+  top: 990px;
+  width: 429px;
+}
+
+.intro .rectangle-20 {
+  height: 266px;
+  left: 3339px;
+  position: absolute;
+  top: 990px;
+  width: 429px;
+}
+
+.intro .path-4 {
+  height: 268px;
+  left: 2363px;
+  position: absolute;
+  top: 1283px;
+  width: 429px;
+}
+
+.intro .rectangle-22 {
+  height: 268px;
+  left: 2851px;
+  position: absolute;
+  top: 1283px;
+  width: 429px;
+}
+
+.intro .rectangle-23 {
+  height: 268px;
+  left: 3339px;
+  position: absolute;
+  top: 1283px;
+  width: 429px;
+}
+
+.intro .rectangle-24 {
+  height: 267px;
+  left: 2363px;
+  position: absolute;
+  top: 1578px;
+  width: 430px;
+}
+
+.intro .rectangle-25 {
+  height: 267px;
+  left: 2851px;
+  position: absolute;
+  top: 1578px;
+  width: 429px;
+}
+
+.intro .rectangle-26 {
+  height: 267px;
+  left: 3339px;
+  position: absolute;
+  top: 1578px;
+  width: 429px;
+}
+
+.intro .rectangle-27 {
+  height: 267px;
+  left: 2360px;
+  position: absolute;
+  top: 1879px;
+  width: 430px;
+}
+
+.intro .rectangle-28 {
+  height: 267px;
+  left: 2848px;
+  position: absolute;
+  top: 1879px;
+  width: 429px;
+}
+
+.intro .rectangle-29 {
+  height: 267px;
+  left: 3337px;
+  position: absolute;
+  top: 1879px;
+  width: 428px;
+}
+
+.intro .rectangle-30 {
+  height: 267px;
+  left: 2360px;
+  position: absolute;
+  top: 2188px;
+  width: 430px;
+}
+
+.intro .rectangle-31 {
+  height: 267px;
+  left: 2848px;
+  position: absolute;
+  top: 2188px;
+  width: 429px;
+}
+
+.intro .rectangle-32 {
+  height: 267px;
+  left: 3337px;
+  position: absolute;
+  top: 2188px;
+  width: 428px;
+}
+
+.intro .rectangle-34 {
+  height: 267px;
+  left: 2360px;
+  position: absolute;
+  top: 2496px;
+  width: 430px;
+}
+
+.intro .logo-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2254px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+
+.intro .logo-design:hover {
+  background-color: #000000
+}
+
+.intro .logo-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.intro .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2554px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.intro .team-packages:hover {
+  background-color: #000000
+}
+
+.intro .team-packages-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2.0px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.intro .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2909px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.intro .motion-design:hover {
+  background-color: #000000
+}
+
+.intro .motion-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.intro .header {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3269px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 121px;
+}
+
+.intro .header:hover {
+  background-color: #000000
+}
+
+.intro .header-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.intro .intro-1 {
+  display: flex;
+  height: 21px;
+  left: 3448px;
+  position: absolute;
+  top: 556px;
+  width: 101px;
+}
+
+.intro .intro-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.intro .misc {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3628px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 82px;
+}
+
+.intro .misc:hover {
+  background-color: #000000
+}
+
+.intro .misc-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.intro .art {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3768px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.intro .art:hover {
+  background-color: #000000
+}
+
+.intro .link {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.intro .web {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3878px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.intro .web:hover {
+  background-color: #000000
+}
+
+.intro .layer-14 {
+  height: 6px;
+  left: 3428px;
+  object-fit: cover;
+  position: absolute;
+  top: 563px;
+  width: 142px;
+}

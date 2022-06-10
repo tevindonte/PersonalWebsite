@@ -1,0 +1,326 @@
+/* screen - resume */
+
+.resume {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2560px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.resume .overlap-group3 {
+  height: 3470px;
+  margin-left: -2158px;
+  margin-top: -309px;
+  position: relative;
+  width: 6617px;
+}
+
+.resume .layer-2 {
+  height: 1px;
+  left: 2158px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.resume .textures {
+  height: 3166px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6617px;
+}
+
+.resume .rounded-rectangle-1 {
+  height: 2286px;
+  left: 2202px;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 1798px;
+}
+
+.resume .place {
+  left: 2202px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 401px;
+  white-space: nowrap;
+}
+
+.resume .overlap-group2 {
+  height: 3406px;
+  left: 2158px;
+  position: absolute;
+  top: 64px;
+  width: 2329px;
+}
+
+.resume .layer-4 {
+  height: 20px;
+  left: 1443px;
+  object-fit: cover;
+  position: absolute;
+  top: 275px;
+  width: 75px;
+}
+
+.resume .layer-4-copy {
+  height: 20px;
+  left: 1646px;
+  object-fit: cover;
+  position: absolute;
+  top: 275px;
+  width: 201px;
+}
+
+.resume .usage {
+  left: 1448px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.resume .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 3406px;
+  left: 0;
+  min-width: 2329px;
+  position: absolute;
+  top: 0;
+}
+
+.resume .overlap-group1 {
+  background-image: url(../img/layer-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 245px;
+  width: 1px;
+}
+
+.resume .overlap-group {
+  height: 3406px;
+  margin-left: 408px;
+  position: relative;
+  width: 1920px;
+}
+
+.resume .rectangle-35 {
+  background-color: var(--white);
+  height: 2653px;
+  left: 1478px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 245px;
+  width: 33px;
+}
+
+.resume .rectangle-36 {
+  height: 3406px;
+  left: 0;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.resume .copyright {
+  left: 374px;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  position: absolute;
+  text-align: right;
+  top: 2736px;
+  white-space: nowrap;
+}
+
+.resume .digital-artist {
+  cursor: pointer;
+  height: 10px;
+  left: 1349px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  transition: all 0.2s ease;
+  width: 140px;
+}
+
+.resume .digital-artist:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .store {
+  cursor: pointer;
+  height: 11px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.resume .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .name {
+  left: 1652px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 278px;
+  white-space: nowrap;
+}
+
+.resume .place-1 {
+  left: 1624px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 303px;
+  white-space: nowrap;
+}
+
+.resume .text-4 {
+  left: 1584px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.resume .layer-10 {
+  height: 17px;
+  left: 1713px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 1px;
+}
+
+.resume .layer-5-copy-2 {
+  height: 17px;
+  left: 1506px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 1px;
+}
+
+.resume .layer-5-copy {
+  height: 17px;
+  left: 1800px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 1px;
+}
+
+.resume .model {
+  cursor: pointer;
+  height: 11px;
+  left: 1725px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.resume .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .code {
+  cursor: pointer;
+  height: 11px;
+  left: 1816px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.resume .code:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .layer-11 {
+  height: 5px;
+  left: 1616px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  width: 89px;
+}
+
+.resume .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 95px;
+  left: 39px;
+  position: absolute;
+  top: 245px;
+  width: 86px;
+}
+
+.resume .img_1080 {
+  height: 703px;
+  left: 3379px;
+  object-fit: cover;
+  position: absolute;
+  top: 1416px;
+  width: 529px;
+}
+
+.resume .img_1047-pano {
+  height: 489px;
+  left: 2328px;
+  object-fit: cover;
+  position: absolute;
+  top: 2131px;
+  width: 1580px;
+}
+
+.resume .img_3806 {
+  height: 748px;
+  left: 2328px;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 562px;
+}
+
+.resume .img_4139 {
+  height: 703px;
+  left: 2328px;
+  object-fit: cover;
+  position: absolute;
+  top: 1416px;
+  width: 1010px;
+}
+
+.resume .img_4040 {
+  height: 748px;
+  left: 2895px;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 1029px;
+}

@@ -1,0 +1,602 @@
+/* screen - header */
+
+.header {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 2560px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.header .overlap-group2 {
+  height: 3166px;
+  margin-left: -2158px;
+  margin-top: -309px;
+  position: relative;
+  width: 6617px;
+}
+
+.header .layer-2 {
+  height: 1px;
+  left: 2158px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.header .textures {
+  height: 3166px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6617px;
+}
+
+.header .rounded-rectangle-1 {
+  height: 2286px;
+  left: 2202px;
+  object-fit: cover;
+  position: absolute;
+  top: 627px;
+  width: 1798px;
+}
+
+.header .layer-12 {
+  height: 903px;
+  left: 1803px;
+  object-fit: cover;
+  position: absolute;
+  top: 2010px;
+  width: 842px;
+}
+
+.header .digital-artist {
+  left: 2202px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 401px;
+  white-space: nowrap;
+}
+
+.header .layer-13 {
+  height: 65px;
+  left: 2242px;
+  object-fit: cover;
+  position: absolute;
+  top: 532px;
+  width: 1718px;
+}
+
+.header .rectangle-35 {
+  background-color: var(--white);
+  height: 2653px;
+  left: 4045px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 309px;
+  width: 33px;
+}
+
+.header .rectangle-36 {
+  height: 2898px;
+  left: 2567px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 64px;
+  width: 1920px;
+}
+
+.header .overlap-group1 {
+  height: 2507px;
+  left: 2158px;
+  position: absolute;
+  top: 309px;
+  width: 1867px;
+}
+
+.header .layer-4 {
+  height: 20px;
+  left: 1443px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 75px;
+}
+
+.header .layer-4-copy {
+  height: 20px;
+  left: 1646px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 201px;
+}
+
+.header .usage {
+  left: 1448px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.header .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 2507px;
+  left: 0;
+  min-width: 1852px;
+  position: absolute;
+  top: 0;
+}
+
+.header .overlap-group {
+  background-image: url(../img/layer-23@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.header .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  margin-bottom: -1.2px;
+  margin-left: 782px;
+  min-height: 17px;
+  min-width: 320px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.header .digital-artist-1 {
+  height: 10px;
+  left: 1349px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 140px;
+}
+
+.header .store {
+  cursor: pointer;
+  height: 11px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.header .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.header .name {
+  left: 1652px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.header .text-8 {
+  left: 1584px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.header .layer-10 {
+  height: 17px;
+  left: 1713px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.header .layer-5-copy-2 {
+  height: 17px;
+  left: 1506px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.header .layer-5-copy {
+  height: 17px;
+  left: 1800px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.header .model {
+  cursor: pointer;
+  height: 11px;
+  left: 1725px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.header .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.header .code {
+  cursor: pointer;
+  height: 11px;
+  left: 1816px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.header .code:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.header .layer-11 {
+  height: 5px;
+  left: 1339px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 157px;
+}
+
+.header .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 95px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.header .place {
+  cursor: pointer;
+  left: 1624px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.header .x733604-l-ga-h-zmj-v {
+  height: 272px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 818px;
+}
+
+.header .x733604f-ys1-jd-bf {
+  height: 272px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 818px;
+}
+
+.header .x733604n-pm-m-ue-sf {
+  height: 273px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1015px;
+  width: 818px;
+}
+
+.header .x733604-n-dio-p4qr {
+  height: 273px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1015px;
+  width: 818px;
+}
+
+.header .x733604mbx-j-cdmm {
+  height: 274px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1319px;
+  width: 818px;
+}
+
+.header .x733604-qt-z4m-lx-z {
+  height: 274px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1319px;
+  width: 818px;
+}
+
+.header .x73360429a-bmdhb-1 {
+  height: 272px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1625px;
+  width: 818px;
+}
+
+.header .x733604azk-xf-cb9-1 {
+  height: 272px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1625px;
+  width: 818px;
+}
+
+.header .x733604q-ff-gkobu {
+  height: 273px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 1930px;
+  width: 818px;
+}
+
+.header .x733604-xb7mg6-wm-2 {
+  height: 273px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 1930px;
+  width: 818px;
+}
+
+.header .x733604k-if-u9y-bu {
+  height: 273px;
+  left: 2259px;
+  object-fit: cover;
+  position: absolute;
+  top: 2235px;
+  width: 818px;
+}
+
+.header .x7336047g0-euw-lh {
+  height: 273px;
+  left: 3120px;
+  object-fit: cover;
+  position: absolute;
+  top: 2235px;
+  width: 818px;
+}
+
+.header .logo-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2254px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+
+.header .logo-design:hover {
+  background-color: #000000
+}
+
+.header .logo-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.header .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2554px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.header .team-packages:hover {
+  background-color: #000000
+}
+
+.header .team-packages-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2.0px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.header .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 2909px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 261px;
+}
+
+.header .motion-design:hover {
+  background-color: #000000
+}
+
+.header .motion-design-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.header .header-1 {
+  display: flex;
+  height: 21px;
+  left: 3269px;
+  position: absolute;
+  top: 556px;
+  width: 121px;
+}
+
+.header .header-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.header .intro {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3448px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 101px;
+}
+
+.header .intro:hover {
+  background-color: #000000
+}
+
+.header .intro-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.header .misc {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3628px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 82px;
+}
+
+.header .misc:hover {
+  background-color: #000000
+}
+
+.header .misc-1 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.header .art {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3768px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.header .art:hover {
+  background-color: #000000
+}
+
+.header .link {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  margin-bottom: -0.6px;
+  margin-right: -2px;
+  margin-top: -1.4px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.header .layer-14 {
+  height: 6px;
+  left: 3241px;
+  object-fit: cover;
+  position: absolute;
+  top: 563px;
+  width: 171px;
+}
+
+.header .web {
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 3878px;
+  position: absolute;
+  top: 556px;
+  transition: all 0.2s ease;
+  width: 62px;
+}
+
+.header .web:hover {
+  background-color: #000000
+}

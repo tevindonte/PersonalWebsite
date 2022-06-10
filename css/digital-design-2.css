@@ -1,0 +1,602 @@
+/* screen - digital-design-2 */
+
+.digital-design-2 {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.digital-design-2 .overlap-group2 {
+  background-image: url(../img/layer-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 926px;
+  margin-left: -438px;
+  position: relative;
+  width: 1389px;
+}
+
+.digital-design-2 .overlap-group {
+  height: 915px;
+  left: 438px;
+  position: absolute;
+  top: 0;
+  width: 416px;
+}
+
+.digital-design-2 .layer-4 {
+  height: 14px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 51px;
+}
+
+.digital-design-2 .layer-4-copy {
+  height: 14px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 141px;
+}
+
+.digital-design-2 .usage {
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 10.4px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.digital-design-2 .group-4 {
+  display: flex;
+  height: 915px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 413px;
+}
+
+.digital-design-2 .layer-8 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.digital-design-2 .copyright {
+  align-self: flex-end;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 7.9px;
+  margin-bottom: -2.1px;
+  margin-right: -2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.digital-design-2 .name {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 9.3px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.digital-design-2 .text-18 {
+  left: 221px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.digital-design-2 .layer-10 {
+  height: 11px;
+  left: 311px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.digital-design-2 .layer-5-copy-2 {
+  height: 11px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 3px;
+}
+
+.digital-design-2 .layer-5-copy {
+  height: 11px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 2px;
+}
+
+.digital-design-2 .place {
+  cursor: pointer;
+  left: 256px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design-2 .place:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .model {
+  cursor: pointer;
+  left: 326px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design-2 .model:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .code {
+  cursor: pointer;
+  left: 386px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design-2 .code:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .digital-artist {
+  left: 59px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.digital-design-2 .store {
+  cursor: pointer;
+  left: 177px;
+  letter-spacing: -0.56px;
+  line-height: 9.0px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.digital-design-2 .store:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .layer-11 {
+  height: 5px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 104px;
+}
+
+.digital-design-2 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 51px;
+  left: 442px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.digital-design-2 .group-1 {
+  align-items: flex-start;
+  background-image: url(../img/layer-13-1-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 15px;
+  justify-content: flex-end;
+  left: 450px;
+  min-width: 403px;
+  padding: 3.6px 2.3px;
+  position: absolute;
+  top: 92px;
+}
+
+.digital-design-2 .logo-design {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.digital-design-2 .logo-design:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .logo-design-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.digital-design-2 .team-packages {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 13px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.digital-design-2 .team-packages:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .team-packages-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.digital-design-2 .overlap-group1 {
+  height: 6px;
+  margin-left: 11px;
+  margin-top: 0.01px;
+  position: relative;
+  width: 77px;
+}
+
+.digital-design-2 .motion-design {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+
+.digital-design-2 .motion-design:hover {
+  background-color: #000000
+}
+
+.digital-design-2 .motion-design-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.digital-design-2 .layer-14 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 77px;
+}
+
+.digital-design-2 .header {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 12px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 32px;
+}
+
+.digital-design-2 .header:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .header-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.digital-design-2 .intro {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 10px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 27px;
+}
+
+.digital-design-2 .intro:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .intro-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.digital-design-2 .misc {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 15px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 22px;
+}
+
+.digital-design-2 .misc:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .misc-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.digital-design-2 .art {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 11px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 17px;
+}
+
+.digital-design-2 .art:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .art-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.digital-design-2 .web {
+  cursor: pointer;
+  display: flex;
+  height: 6px;
+  margin-left: 9px;
+  margin-top: 0.01px;
+  transition: all 0.2s ease;
+  width: 17px;
+}
+
+.digital-design-2 .web:hover {
+  transform: scale(1.1);
+}
+
+.digital-design-2 .web-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.digital-design-2 .rounded-rectangle-1 {
+  height: 690px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 418px;
+}
+
+.digital-design-2 .x733604-xl5c-aosr {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604xl5caosr.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 486px;
+  position: absolute;
+  top: 183px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-dm-zr-dwd5 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604dmzrdwd5.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 661px;
+  position: absolute;
+  top: 183px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604f-u4-rm6xk {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604fu4rm6xk.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 483px;
+  position: absolute;
+  top: 765px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-je-t-lfkkw {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604jetlfkkw.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 486px;
+  position: absolute;
+  top: 275px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-cz-uj-n-gf8 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604czujngf8.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 661px;
+  position: absolute;
+  top: 275px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-ul2-w4qq-g {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604ul2w4qqg.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 93px;
+  left: 657px;
+  position: absolute;
+  top: 666px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-cqe-fxjit {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604cqefxjit.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 486px;
+  position: absolute;
+  top: 367px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-c3-v-tb5ax {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604c3vtb5ax.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 661px;
+  position: absolute;
+  top: 367px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-lubj0-uic {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604lubj0uic.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 94px;
+  left: 483px;
+  position: absolute;
+  top: 665px;
+  width: 165px;
+}
+
+.digital-design-2 .x733604-r4-obo8-bz {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/733604r4obo8bz.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 489px;
+  position: absolute;
+  top: 469px;
+  width: 164px;
+}
+
+.digital-design-2 .x7336045n-fahf-ks {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/7336045nfahfks.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92px;
+  left: 661px;
+  position: absolute;
+  top: 469px;
+  width: 165px;
+}
+
+.digital-design-2 .x7336040js-a-dh-xo {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/7336040jsadhxo.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 94px;
+  left: 661px;
+  position: absolute;
+  top: 567px;
+  width: 166px;
+}
+
+.digital-design-2 .x7336043-ae-e-tm4-s {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/7336043aeetm4s.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 93px;
+  left: 489px;
+  position: absolute;
+  top: 567px;
+  width: 164px;
+}

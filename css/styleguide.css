@@ -1,0 +1,174 @@
+:root { 
+  --black: #000000;
+  --bon-jour: #e3e1e1;
+  --pomegranate: #f1450f;
+  --white: #ffffff;
+ 
+  --font-size-l: 19.9px;
+  --font-size-m: 16px;
+  --font-size-s: 13.8px;
+  --font-size-xs: 11.1px;
+  --font-size-xxs: 7.4px;
+  --font-size-xxxs: 7px;
+  --font-size-xxxxs: 5px;
+ 
+  --font-family-press_start_2p: "Press Start 2P", Helvetica;
+  --font-family-segoeuiblack: "SegoeUIBlack", Helvetica;
+}
+.pressstart2p-normal-white-5px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-19-9px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-7-4px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-13-8px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-11-1px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-bon-jour-11-1px {
+  color: var(--bon-jour);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-8-7px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 8.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-6-6px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 6.6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-7-7px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 7.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-normal-white-11-2px {
+  color: var(--white);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: 11.2px;
+  font-style: normal;
+}
+
+.pressstart2p-normal-white-7-4px-2 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-7-5px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 7.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-78-6px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 78.6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-12-4px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 12.4px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-19-8px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 19.8px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-black-7-7px-2 {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 7.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pressstart2p-normal-white-55-7px {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 55.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-normal-black-6-9px {
+  color: var(--black);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: 6.9px;
+  font-style: normal;
+}

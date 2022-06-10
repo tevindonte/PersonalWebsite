@@ -1,0 +1,327 @@
+/* screen - code */
+
+.code {
+  align-items: flex-start;
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.code .overlap-group {
+  height: 1990px;
+  margin-left: -988px;
+  margin-top: -460px;
+  position: relative;
+  width: 4160px;
+}
+
+.code .layer {
+  height: 1px;
+  left: 988px;
+  object-fit: cover;
+  position: absolute;
+  top: 460px;
+  width: 1px;
+}
+
+.code .textures {
+  height: 1990px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4160px;
+}
+
+.code .rounded-rectangle-1 {
+  height: 1084px;
+  left: 1035px;
+  object-fit: cover;
+  position: absolute;
+  top: 613px;
+  width: 1798px;
+}
+
+.code .code-1 {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 78.6px;
+  font-weight: 400;
+  left: 1035px;
+  letter-spacing: 0;
+  line-height: 94.3px;
+  position: absolute;
+  top: 555px;
+  white-space: nowrap;
+}
+
+.code .projects {
+  color: var(--pomegranate);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 1898px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 666px;
+  white-space: nowrap;
+}
+
+.code .technology-summary {
+  color: var(--pomegranate);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 1828px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 1306px;
+  white-space: nowrap;
+}
+
+.code .skilled-in-python {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 1102px;
+  letter-spacing: 0;
+  line-height: 24.0px;
+  position: absolute;
+  top: 1362px;
+  white-space: nowrap;
+}
+
+.code .ee-filler-developer {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 1098px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 698px;
+  white-space: nowrap;
+}
+
+.code .crissy {
+  height: 1015px;
+  left: 2438px;
+  object-fit: cover;
+  position: absolute;
+  top: 807px;
+  width: 339px;
+}
+
+.code .layer-12 {
+  height: 771px;
+  left: 942px;
+  object-fit: cover;
+  position: absolute;
+  top: 1155px;
+  width: 684px;
+}
+
+.code .hbbhuyi {
+  height: 281px;
+  left: 2117px;
+  object-fit: cover;
+  position: absolute;
+  top: 995px;
+  width: 421px;
+}
+
+.code .x254-2547311_penetrat {
+  height: 176px;
+  left: 2359px;
+  object-fit: cover;
+  position: absolute;
+  top: 1502px;
+  width: 391px;
+}
+
+.code .layer-4 {
+  height: 20px;
+  left: 2434px;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 75px;
+}
+
+.code .layer-4-copy {
+  height: 20px;
+  left: 2637px;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 201px;
+}
+
+.code .usage {
+  color: var(--black);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 12.4px;
+  font-weight: 400;
+  left: 2440px;
+  letter-spacing: 0;
+  line-height: 14.8px;
+  position: absolute;
+  top: 496px;
+  white-space: nowrap;
+}
+
+.code .rectangle-36 {
+  height: 1622px;
+  left: 1397px;
+  mix-blend-mode: difference;
+  position: absolute;
+  top: 215px;
+  width: 1920px;
+}
+
+.code .copyright {
+  left: 1774px;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  position: absolute;
+  text-align: right;
+  top: 1712px;
+  white-space: nowrap;
+}
+
+.code .digital-artist {
+  cursor: pointer;
+  height: 10px;
+  left: 2340px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  transition: all 0.2s ease;
+  width: 140px;
+}
+
+.code .digital-artist:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .store {
+  cursor: pointer;
+  height: 11px;
+  left: 2513px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  transition: all 0.2s ease;
+  width: 56px;
+}
+
+.code .store:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .name {
+  left: 2642px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 496px;
+  white-space: nowrap;
+}
+
+.code .text-6 {
+  color: var(--white);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-m);
+  left: 2575px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 491px;
+  white-space: nowrap;
+}
+
+.code .layer-10 {
+  height: 17px;
+  left: 2704px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 1px;
+}
+
+.code .layer-5-copy-2 {
+  height: 17px;
+  left: 2497px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 1px;
+}
+
+.code .layer-5-copy {
+  height: 17px;
+  left: 2791px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 1px;
+}
+
+.code .model {
+  cursor: pointer;
+  height: 11px;
+  left: 2716px;
+  object-fit: cover;
+  position: absolute;
+  top: 520px;
+  transition: all 0.2s ease;
+  width: 66px;
+}
+
+.code .model:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .code-2 {
+  height: 11px;
+  left: 2807px;
+  object-fit: cover;
+  position: absolute;
+  top: 520px;
+  width: 51px;
+}
+
+.code .layer-11 {
+  height: 4px;
+  left: 2797px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 65px;
+}
+
+.code .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 95px;
+  left: 1027px;
+  position: absolute;
+  top: 458px;
+  width: 86px;
+}
+
+.code .place {
+  cursor: pointer;
+  left: 2612px;
+  letter-spacing: 0;
+  line-height: 13.3px;
+  position: absolute;
+  top: 518px;
+  white-space: nowrap;
+}

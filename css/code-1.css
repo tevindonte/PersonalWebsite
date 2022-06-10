@@ -1,0 +1,308 @@
+/* screen - code-1 */
+
+.code-1 {
+  align-items: flex-start;
+  background-image: url(../img/layer-1-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.code-1 .overlap-group {
+  background-image: url(../img/layer-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 926px;
+  margin-left: -438px;
+  position: relative;
+  width: 1389px;
+}
+
+.code-1 .layer-4 {
+  height: 14px;
+  left: 561px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 51px;
+}
+
+.code-1 .layer-4-copy {
+  height: 14px;
+  left: 702px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 141px;
+}
+
+.code-1 .usage {
+  left: 564px;
+  letter-spacing: 0;
+  line-height: 10.4px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.code-1 .group-4 {
+  display: flex;
+  height: 915px;
+  justify-content: space-between;
+  left: 438px;
+  position: absolute;
+  top: 0;
+  width: 413px;
+}
+
+.code-1 .layer-8 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.code-1 .copyright {
+  align-self: flex-end;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 7.9px;
+  margin-bottom: -2.1px;
+  margin-right: -2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.code-1 .name {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 9.3px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.code-1 .text-17 {
+  left: 659px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.code-1 .layer-10 {
+  height: 11px;
+  left: 749px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.code-1 .layer-5-copy-2 {
+  height: 11px;
+  left: 603px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 3px;
+}
+
+.code-1 .layer-5-copy {
+  height: 11px;
+  left: 809px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 2px;
+}
+
+.code-1 .place {
+  cursor: pointer;
+  left: 694px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code-1 .place:hover {
+  transform: scale(1.1);
+}
+
+.code-1 .model {
+  cursor: pointer;
+  left: 764px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code-1 .model:hover {
+  transform: scale(1.1);
+}
+
+.code-1 .code-2 {
+  left: 824px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.code-1 .digital-artist {
+  cursor: pointer;
+  left: 497px;
+  letter-spacing: -0.56px;
+  line-height: 8.9px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code-1 .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.code-1 .store {
+  cursor: pointer;
+  left: 615px;
+  letter-spacing: -0.56px;
+  line-height: 9.0px;
+  position: absolute;
+  top: 50px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code-1 .store:hover {
+  transform: scale(1.1);
+}
+
+.code-1 .code {
+  left: 538px;
+  letter-spacing: -4.18px;
+  line-height: 66.9px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+}
+
+.code-1 .layer-11 {
+  height: 5px;
+  left: 815px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 49px;
+}
+
+.code-1 .rounded-rectangle-1 {
+  height: 690px;
+  left: 443px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 418px;
+}
+
+.code-1 .projects {
+  color: var(--pomegranate);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 8px;
+  font-weight: 400;
+  left: 630px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.code-1 .technology-summary {
+  color: var(--pomegranate);
+  font-family: var(--font-family-press_start_2p);
+  font-size: 8px;
+  font-weight: 400;
+  left: 580px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 617px;
+  white-space: nowrap;
+}
+
+.code-1 .skilled-in-python {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 471px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 646px;
+  white-space: nowrap;
+}
+
+.code-1 .ee-filler-developer {
+  color: var(--white);
+  font-family: var(--font-family-press_start_2p);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 449px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+}
+
+.code-1 .crissy {
+  height: 371px;
+  left: 649px;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 124px;
+}
+
+.code-1 .hbbhuyi {
+  height: 103px;
+  left: 531px;
+  object-fit: cover;
+  position: absolute;
+  top: 505px;
+  width: 154px;
+}
+
+.code-1 .x254-2547311_penetrat {
+  height: 96px;
+  left: 633px;
+  object-fit: cover;
+  position: absolute;
+  top: 758px;
+  width: 212px;
+}
+
+.code-1 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629d546d54da04f8b0ce4dad/files/ezgif-com-gif-maker-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 51px;
+  left: 442px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}

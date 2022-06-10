@@ -1,0 +1,2 @@
+Mobile - The Spinning logo link doesn't bring you to home screen
+Store link on menu screen doesn't work
