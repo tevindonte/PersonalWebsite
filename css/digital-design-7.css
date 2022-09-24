@@ -459,19 +459,19 @@
 }
 
 .digital-design-7 .f4d332db1d8a59f2f5ed95ba25edef5c {
-  height: 214px;
-  left: 470px;
-  object-fit: cover;
-  position: absolute;
-  top: 223px;
+  height: 500px;
+  left: 380px;
+  object-fit: contain;
+  position: relative;
+  top: 123px;
   width: 365px;
 }
 
 .digital-design-7 .ewfw {
-  height: 381px;
-  left: 463px;
-  object-fit: cover;
-  position: absolute;
-  top: 445px;
+  height: 581px;
+  left: 210px;
+  object-fit: contain;
+  position: relative;
+  top: 200px;
   width: 381px;
 }
