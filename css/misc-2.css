@@ -505,19 +505,19 @@
 }
 
 .misc-2 .f4d332db1d8a59f2f5ed95ba25edef5c {
-  height: 995px;
-  left: 2254px;
-  object-fit: cover;
-  position: absolute;
-  top: 664px;
+  height: 2000px;
+  left: 1920px;
+  object-fit: scale-down;
+  position: relative;
+  top: 700px;
   width: 1706px;
 }
 
 .misc-2 .ewfw {
-  height: 1052px;
-  left: 2885px;
-  object-fit: cover;
-  position: absolute;
-  top: 1702px;
-  width: 1053px;
+  height: 2000px;
+  left: 1500px;
+  object-fit: scale-down;
+  position: relative;
+  top: 702px;
+  width: 1753px;
 }
